@@ -1,2 +1,2 @@
-# jinzhi_offer
+# jianzhi_offer
 剑指offer
